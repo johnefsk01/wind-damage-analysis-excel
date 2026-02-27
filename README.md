@@ -67,6 +67,8 @@ Clusters were formed using a threshold of 0.65.
 - Statistical interpretation of correlation measures
 
 ---
+## Excel Sheet
+[Wind_Damage_Analysis.xlsx](Wind_Damage_Analysis.xlsx)
 
 ## Screenshots
 
